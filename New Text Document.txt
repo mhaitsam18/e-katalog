@@ -1,0 +1,6 @@
+ke terminal 
+- git add .
+- git commit -a -m "pesan"
+- git pull origin main
+
+php public/index.php migrate

@@ -1,0 +1,5 @@
+## ignore semua file
+*
+## kecuali file ini
+!.gitignore
+!template_input_produk.xlsx
